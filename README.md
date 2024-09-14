@@ -4,7 +4,7 @@
 - 💞️ I’m happy to assist in any projects so i can have a hands-on learning experience. 
 - 📫 How to reach me at ndebeleblondie@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I have over a decade of experience in Communications and switching career into data science. 
 
 <!---
 BlondieN/BlondieN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
